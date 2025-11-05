@@ -1,0 +1,15 @@
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\bin\Debug\net8.0\IceScream.exe
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\bin\Debug\net8.0\IceScream.deps.json
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\bin\Debug\net8.0\IceScream.runtimeconfig.json
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\bin\Debug\net8.0\IceScream.dll
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\bin\Debug\net8.0\IceScream.pdb
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\obj\Debug\net8.0\IceScream.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\obj\Debug\net8.0\IceScream.AssemblyInfoInputs.cache
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\obj\Debug\net8.0\IceScream.AssemblyInfo.cs
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\obj\Debug\net8.0\IceScream.csproj.CoreCompileInputs.cache
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\obj\Debug\net8.0\IceScream.sourcelink.json
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\obj\Debug\net8.0\IceScream.dll
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\obj\Debug\net8.0\refint\IceScream.dll
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\obj\Debug\net8.0\IceScream.pdb
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\obj\Debug\net8.0\IceScream.genruntimeconfig.cache
+c:\Users\alikey\source\repos\Onboarding Coaching\IceScream\IceScream\obj\Debug\net8.0\ref\IceScream.dll
